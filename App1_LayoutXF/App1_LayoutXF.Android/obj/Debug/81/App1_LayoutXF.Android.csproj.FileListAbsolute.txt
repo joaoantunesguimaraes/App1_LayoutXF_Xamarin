@@ -1,0 +1,9 @@
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\build.props
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\adb.props
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\App1_LayoutXF.Android.csprojAssemblyReference.cache
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\res.flag
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\R.txt
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\R.cs.flag
+E:\dev\meuxamarin\2019\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.Android\obj\Debug\81\App1_LayoutXF.Android.csproj.CoreCompileInputs.cache

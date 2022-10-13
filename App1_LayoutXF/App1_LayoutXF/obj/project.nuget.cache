@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dcq7x/fkmPPSYiV1+yfu56YMeHzI0tJjXZbxmHQIYszO9d7hQKm4hNVvFd23ylFAT7NhRQj2nL/OMzyUezYKSw==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\App1_LayoutXF\\App1_LayoutXF\\App1_LayoutXF\\App1_LayoutXF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

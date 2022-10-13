@@ -1,0 +1,1 @@
+C:\dev\meuxamarin\2017\App1_LayoutXF\App1_LayoutXF\App1_LayoutXF.UWP\App1_LayoutXF.UWP.csproj;x86
